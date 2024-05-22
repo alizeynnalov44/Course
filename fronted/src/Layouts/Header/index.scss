@@ -1,0 +1,18 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    .logo{
+        display: flex;
+    }
+    nav{
+        ul{
+            display: flex;
+            gap: 2rem;
+          
+        }
+    }
+    .number{
+        background-color: #FFB606;
+    }
+}
